@@ -117,9 +117,9 @@ from the source link and import into `00_RAW` to reproduce this pipeline.
   Data cleaning and filter management in Google Sheets consumed a disproportionate share of the project timeline. What appeared to be straightforward validation. Removing blank rows, flagging duration outliers, isolating valid records in fact required constant manual coordination across tabs. The one million cell limit also forced a sampling decision that would not have been necessary in a more capable tool. Adding a methodological constraint that had to be carefully documented to remain defensible.
 
   What I would do differently. 
-    1. Replace formulas with pivot tables and Measures. Dynamic aggregations that update automatically, with no risk of broken cell references across tabs.
-    2. Switch to other programm (like Excel). The 1.3M rows per sheet means the full 450k row dataset fits without sampling. That means removing the main methodological constraint of this project.
-    3. Visualise in Power BI tool. Interactive dashboards connected directly to the data source. Benefit that is no manual chart updates and fully shareable with stakeholders.
+  1. Replace formulas with pivot tables and Measures. Dynamic aggregations that update automatically, with no risk of broken cell references across tabs.
+  2. Switch to other programm (like Excel). The 1.3M rows per sheet means the full 450k row dataset fits without sampling. That means removing the main methodological constraint of this project.
+  3. Visualise in Power BI tool. Interactive dashboards connected directly to the data source. Benefit that is no manual chart updates and fully shareable with stakeholders.
   
 ---
 
