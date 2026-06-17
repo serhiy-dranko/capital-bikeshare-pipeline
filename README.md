@@ -10,8 +10,8 @@ trip data from ingestion through cleaning, aggregation, statistical analysis, pr
 modelling, and A/B testing - ending in a business-ready dashboard.
 
 **One-sentence story:**  
-["Members and casual riders use the bikeshare system in fundamentally different ways, and an A/B test reveals that client type drives real 
-differences in trip length."]
+"Members and casual riders use the bikeshare system in fundamentally different ways, and an A/B test reveals that client type drives real 
+differences in trip length."
 
 ---
 
@@ -34,8 +34,6 @@ differences in trip length."]
 ---
 
 ## Key Findings
-
-[Fill these in from your own pipeline results]
 
 - **Total valid trips (September 2023):** 97,044
 - **Data quality pass rate:** 97.4 %
