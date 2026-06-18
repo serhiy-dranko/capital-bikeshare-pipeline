@@ -4,7 +4,8 @@
 
 2. What was the hardest part of building this pipeline? Be specific. Not "it was hard" — which stage? Which formula? What did you have to do to get past it?
 
-   The harders one was understand how this work  =TTEST('06.1_SAMPLING'!D2:D1501,'06.1_SAMPLING'!D1502:D3001,2,3) and all tasks conected to Probability calculation. When I went trought it I've learnt how Sampling and A-B testing work on real life and how companies work with this data in real life.
+   The harders one was  SAMPLING and A/B test. A specifically understanding what this formula actually doing and why the arguments matter =TTEST('06.1_SAMPLING'!D2:D1501,'06.1_SAMPLING'!D1502:D3001,2,3) . The 2 specifies a twotailed test, the 3 specifies unequal variances. Getting those wrong would have invalidated the entire result without any visible error. 
+Working through that formula forced a genuine understanding of how sampling, hypothesis construction, and significance testing connect in practice, not just in theory. That single formula turned an abstract statistical concept into something with a concrete business interpretation.
 
 4. What does your A/B test result actually mean for Capital Bikeshare? Pretend you're explaining it to the Head of Operations. What should they do (or not do) based on your p-value and Cohen's d?
 
@@ -12,4 +13,6 @@
 
 5. If you had one more day and access to 12 months of data instead of one month, what would you investigate? This question is about thinking like a data analyst — what questions does your current analysis leave unanswered?
 
-   The main question is Do we have this paterns of Customer behavior whole year of irt depend from time of the year.
+   The most important open question is whether the behavioural patterns observed in September are structural or seasonal. A twelve month dataset would allow a month-over-month cohort analysis to test whether the patterns are stable enough to build permanent policy on. Or whether they require seasonal recalibration.
+
+   The second gap is revenue. The current dataset records trip duration and rider type, but contains no pricing or revenue dimension. That meaning the analysis can identify which segments ride most and longest, but cannot answer which rides are actually profitable. Connecting trip data to fare structure would allow a contribution-margin analysis by segment. Without that layer, operational decisions are optimised for volume rather than margin  which may not be the same thing.
