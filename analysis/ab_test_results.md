@@ -31,7 +31,8 @@ This is a signal, not a clean separation between every individual ride.
 
 Bike type does not explain the gap. Across both classic and electric bikes, casual riders consistently ride longer than members: 
  - classic 22.28  min vs 12.31 min  
- - electric: 17.70  min vs 12.46 min 
+ - electric: 17.70  min vs 12.46 min
+   
 The member_casual split persists regardless of which bike is used. Which confirms that rider behaviour are not equipment choice. Is just driving the duration difference.
 
 ## Recommendation
