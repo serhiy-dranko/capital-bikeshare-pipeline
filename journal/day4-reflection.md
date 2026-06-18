@@ -32,3 +32,13 @@
   but it meant something real. That bike preference is not a fixed choise from bike types. 
   It is connected to rider identity. I want more tasks like that. 
   Problems where the statistical layer is not just a nice picture on top of a business analyse. But the thing that actually changes the answer.
+
+  ## Next Project Idea
+
+  Which smartphone features are most strongly related to price?
+
+  I would use a [Kaggle dataset](https://www.kaggle.com/datasets/sharmajicoder/smartphones-specification-and-prices)  containing smartphone specifications and prices, including RAM, storage, battery capacity, camera resolution, and performance scores.
+  
+  Following the same data pipeline used in my Capital Bikeshare project. First clean the dataset, handle missing values, and validate data types. Then I would perform exploratory data analysis to understand feature distributions and identify potential   outliers.
+  
+  By the end I would create visualizations showing which smartphone features have the strongest relationship with price and summarize the results in a short report.
