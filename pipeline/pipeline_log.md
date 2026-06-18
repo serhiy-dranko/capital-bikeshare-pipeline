@@ -146,6 +146,20 @@ Test: Member vs Casual bike trip duration
 ## Stage 1 GitHub repo created
 
   Repo URL: https://github.com/serhiy-dranko/capital-bikeshare-pipeline
+
+## Stage 2 GitHub documentation complete
+
+  Repo URL: https://github.com/serhiy-dranko/capital-bikeshare-pipeline
+  
+  README: complete (Key Findings filled with real numbers)
+  
+  Analysis files: stats_summary.md · probability_findings.md · ab_test_results.md
+  
+  Assets uploaded: 9 charts · 8 insight cards
+  
+  Journal entry: journal/day3-reflection.md
+  
+  Repo checklist: all items cleared
   
   Folder structure: data/, pipeline/, charts/, insight_cards/, analysis/, journal/
   
