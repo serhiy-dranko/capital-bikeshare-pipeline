@@ -160,7 +160,21 @@ Test: Member vs Casual bike trip duration
   Journal entry: journal/day3-reflection.md
   
   Repo checklist: all items cleared
-  
+
   Folder structure: data/, pipeline/, charts/, insight_cards/, analysis/, journal/
   
   Visibility: Public
+
+  ## Day 4 
+
+## Portfolio complete
+
+  Portfolio URL: https://serhiy-dranko-portfolio.carrd.co
+  
+  GitHub repo URL: https://github.com/serhiy-dranko/capital-bikeshare-pipeline
+  
+  Sections: header · Capital Bikeshare case study · visuals · next project · links
+  
+  Next project idea: To analyze which smartphone features have the strongest relationship with price and summarize the results
+  
+  Day 5 links: saved and tested
