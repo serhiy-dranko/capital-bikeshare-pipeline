@@ -1,10 +1,12 @@
-# A/B Test: Classic vs Electric Bike Trip Duration
+# A/B Test: Member vs Casual Bike riders Trip Duration
 
 ## Hypothesis
 
-H₀: There is no difference in mean trip duration between classic and electric bike riders.  
-H₁: Electric bike riders have different mean trip durations than classic bike riders.  
-Significance level: α = 0.05
+H₀: There is no difference in mean trip duration between
+member and casual bike riders.
+Any observed difference is due to random chance.
+H₁: Casual bike riders have longer
+mean trip durations compared to member bike riders.
 
 ## Results
 
