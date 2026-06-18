@@ -18,7 +18,7 @@
 
   I would want to know whether the member-casual behavioural gap is structural or seasonal. 
   
-  September defenetley has a good weather, casual numbers are likely inflated by tourists who may disappear in November. 
+  September definitely has a good weather, casual numbers are likely inflated by tourists who may disappear in November. 
   If the duration gap narrows in winter because only commuters remain in the casual pool, that changes the conversion strategy entirely. 
   I would also want to track whether the hourly commute buckets hold across all twelve months or change by the summer period.
 
