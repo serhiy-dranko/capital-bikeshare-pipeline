@@ -123,8 +123,18 @@ from the source link and import into `00_RAW` to reproduce this pipeline.
   
 ---
 
+## LINKS
+
+Portfolio page URL:  [serhiy-dranko.carrd.co](https://serhiy-dranko-portfolio.carrd.co)
+
+GitHub repo URL:     [github.com/serhiy-dranko/capital-bikeshare-pipeline](https://github.com/serhiy-dranko/capital-bikeshare-pipeline)
+
+Google Sheets pipeline: [docs.google.com/spreadsheets/capital_bikeshare-from_raw_data_to_A/B_test_decision](https://docs.google.com/spreadsheets/d/1GTRWs7EQf-0B6a5CGs0x70nKAOVCuKq1gbzI7UB1h5s/edit?usp=sharing)
+
+---
+
 ## Pipeline Log
 
 See [`pipeline/pipeline_log.md`](pipeline/pipeline_log.md) for a full record of 
 decisions made at each stage — cleaning rules, exclusion rationale, test design choices.
-```# capital-bikeshare-pipeline
+
