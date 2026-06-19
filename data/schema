@@ -17,16 +17,24 @@ capital-bikeshare-pipeline/
 │   ├── chart_5_probability_tab.png
 │   ├── chart_6__probability_bybike_type.png
 │   └── chart_7_rides_percentage.png
+│   ├── chart_8_hourly_pattern_by_weekdays.png
+│   └── chart_9_duration_buckets_by_weekdays.png
 │
 ├── insight_cards/
-│   ├── card_1_intro.png                               ← Canva exports
-│   ├── card_2_pipeline.png
-│   ├── card_3_rider_gap.png
-│   ├── card_4_commute_peaks.png
-│   ├── card_5_rides_duration.png
-│   ├── card_6_weekend_to_workday.png
-│   ├── card_7_ab_test.png
-│   └── card_8_probability.png
+│   ├── card_1_intro.png                                ← Canva exports
+│   ├── card_2_core_question.png
+│   ├── card_3_pipeline.png
+│   ├── card_4_data_quality.png
+│   ├── card_5_rider_gap.png
+│   ├── card_6_commute_peaks.png
+│   ├── card_7_rides_duration.png
+│   ├── card_8_weekend_to_workday.png
+│   ├── card_9_ab_test.png
+│   ├── card_10_probability.png
+│   ├── card_11_github_portfolio.png
+│   ├── card_12_what_i_learnt.png
+│   ├── card_13_what_next.png
+│   └── card_14_end.png
 │
 ├── analysis/
 │   ├── stats_summary.md                               ← Statistics Key numbers
