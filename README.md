@@ -84,7 +84,7 @@ who need short, reliable rides and leisure riders who are exploring the city.
 Trip volume spikes at 8:00 and 17:00, following the pattern of a typical office commute.
 In time between this two peak hours we can see lower quantity of usage by Casual rider so we can ajust our price policy.
 
-![A/B Test Results (member vs casual)](https://github.com/serhiy-dranko/Dataskools/blob/main/Week_4/Day_4/card%20readme.png)
+![A/B Test Results (member vs casual)](charts/chart_10_ab_test_combained_data.png)
 
 The effect is real but not dramatic: a Cohen's d of 0.51 means the two groups overlap substantially, and the confound check 
 confirms bike type doesn't explain the gap (classic: 12.3 vs 22.3 min; electric: 12.5 vs 17.7 min  the member-casual split 
