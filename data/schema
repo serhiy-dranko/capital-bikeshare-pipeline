@@ -34,4 +34,6 @@ capital-bikeshare-pipeline/
 │   └── ab_test_results.md                             ← Full A/B tests
 │
 └── journal/
-    └── day3-reflection.md                             ← Reflection about creating repo
+    ├── day3-reflection.md                             ← Reflection about creating repo
+    └── day4-reflection.md
+
