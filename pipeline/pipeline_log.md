@@ -179,23 +179,25 @@ Test: Member vs Casual bike trip duration
 
    ## Day 5
 
-## Visual storytelling update
+  ## Visual storytelling update
 
- Arc chosen: Arc A — The Rider Gap
+  Arc chosen: Arc A — The Rider Gap
+ 
   Charts built: 
-    - Capital Bikeshare - From Raw Data to A/B Test Decision
-    - Capital Bikeshare core question
-    - Capital Bikeshare pipeline
-    - Capital Bikeshare data quality
-    - Casual riders take trips twice as long as members
-    - Bikeshare becomes a commuter tool after 8:00 - then goes quiet until 17:00
-    - The gap between Members and Casual riders narrows as trip duration increases.
-    - Same Bike, Different Purpose Members Ride 74% Shorter.
-    - Classic bikes show high probability regardless of customer type
-    - GitHub and Portfolio
-    - What I learned during the project
-    - What I'd Investigate Next
-    - END Chart
+  
+  - Capital Bikeshare - From Raw Data to A/B Test Decision
+  - Capital Bikeshare core question
+  - Capital Bikeshare pipeline
+  - Capital Bikeshare data quality
+  - Casual riders take trips twice as long as members
+  - Bikeshare becomes a commuter tool after 8:00 - then goes quiet until 17:00
+  - The gap between Members and Casual riders narrows as trip duration increases.
+  - Same Bike, Different Purpose Members Ride 74% Shorter.
+  - Classic bikes show high probability regardless of customer type
+  - GitHub and Portfolio
+  - What I learned during the project
+  - What I'd Investigate Next
+  - END Chart
       
   Insight cards created: 14
   
