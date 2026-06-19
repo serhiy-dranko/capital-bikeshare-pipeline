@@ -5,6 +5,7 @@
 H₀: There is no difference in mean trip duration between
 member and casual bike riders.
 Any observed difference is due to random chance.
+
 H₁: Casual bike riders have longer
 mean trip durations compared to member bike riders.
 
