@@ -16,9 +16,10 @@ capital-bikeshare-pipeline/
 │   ├── chart_4_ab_test_results.png
 │   ├── chart_5_probability_tab.png
 │   ├── chart_6__probability_bybike_type.png
-│   └── chart_7_rides_percentage.png
+│   ├── chart_7_rides_percentage.png
 │   ├── chart_8_hourly_pattern_by_weekdays.png
-│   └── chart_9_duration_buckets_by_weekdays.png
+│   ├── chart_9_duration_buckets_by_weekdays.png
+│   └── chart_10_ab_test_combained_data.png
 │
 ├── insight_cards/
 │   ├── card_1_intro.png                                ← Canva exports
